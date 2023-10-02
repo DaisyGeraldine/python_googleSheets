@@ -69,4 +69,3 @@
      ```
 
 Estas instrucciones deben permitir configurar y ejecutar la aplicación Flask en un entorno virtual en Windows. Asegúrate de que Python, Flask y Flask-CORS estén correctamente instalados en tu entorno virtual antes de ejecutar la aplicación.
-Puedes copiar y pegar estas instrucciones directamente en tu archivo README en formato Markdown, y se mostrarán correctamente en el documento.
